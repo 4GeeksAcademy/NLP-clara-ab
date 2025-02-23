@@ -16,3 +16,4 @@ xgboost
 statsmodels>=0.13.5
 imbalanced-learn>=0.10.1
 nltk>=3.6.3
+wordcloud>=1.8.1
